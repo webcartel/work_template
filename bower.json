@@ -1,0 +1,12 @@
+{
+  "name": "work_template",
+  "authors": [
+    "WebCartel <webcartel@yandex.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {}
+}
